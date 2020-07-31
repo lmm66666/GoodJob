@@ -1,2 +1,2 @@
-# GoodJob
-interesting things
+# 有趣的小程序
+基本都是课堂作业的拓展
